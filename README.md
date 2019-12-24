@@ -1,3 +1,5 @@
+# * Please review [Top Starred Boilerplates](https://bestofjs.org/projects?tags=boilerplate)
+
 # Boilerplate on top of CRA
 
 * All inbox-ed stuff from `create-react-app` like hot reload and service worker
